@@ -3,4 +3,8 @@ enable_review_labels_effort = true
 
 
 [pr_code_suggestions]
-summarize=true
+focus_only_on_problems=true
+
+[best_practices]
+enable_global_best_practices = true
+organization_name="KhulnaSoft"
